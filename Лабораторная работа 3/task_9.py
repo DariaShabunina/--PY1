@@ -9,3 +9,4 @@ for month in range(months):
     money_capital += spend * (1 + increase) ** month - salary
 
 print(round(money_capital))
+# Конец
